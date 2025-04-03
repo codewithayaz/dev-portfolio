@@ -1,0 +1,171 @@
+{
+  "name": "Ayaz Ali",
+  "objective": "Seeking a challenging role where I can utilize my experience to contribute to innovative projects, lead development teams, and create dynamic and efficient web solutions. Dedicated to staying current with emerging technologies and continuously enhancing my skills to drive successful software development initiatives.",
+  "summary": "Possessing approximately 10 years of extensive experience in software design and development since 2015.\n• Strong problem-solving skills and a passion for continuous learning and improvement.\n• Experience working in a collaborative team environment and contributing effectively to team goals.\n• Effective time management skills to meet project deadlines.\n• Strong communication skills to convey technical concepts to both technical and non-technical stakeholders.",
+  "skills": {
+    "Programming Languages": [
+      {
+        "name": "C#",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "rating": 4
+      }
+    ],
+    "Web Development": [
+      {
+        "name": "Asp.net Core",
+        "rating": 4
+      },
+      {
+        "name": "MVC",
+        "rating": 4
+      },
+      {
+        "name": "Web API",
+        "rating": 4
+      },
+      {
+        "name": "Razor Pages",
+        "rating": 3
+      },
+      {
+        "name": "Web Forms",
+        "rating": 3
+      },
+      {
+        "name": "Angular 2+",
+        "rating": 4
+      },
+      {
+        "name": "Angular JS",
+        "rating": 3
+      },
+      {
+        "name": "JQuery",
+        "rating": 3
+      },
+      {
+        "name": "HTML",
+        "rating": 5
+      }
+    ],
+    "Databases": [
+      {
+        "name": "MS SQL Server",
+        "rating": 4
+      },
+      {
+        "name": "MySql",
+        "rating": 3
+      },
+      {
+        "name": "Mongodb",
+        "rating": 3
+      }
+    ],
+    "Desktop Development": [
+      {
+        "name": "Winform",
+        "rating": 3
+      },
+      {
+        "name": "WPF",
+        "rating": 3
+      }
+    ],
+    "Tools and Platforms": [
+      {
+        "name": "Visual Studio",
+        "rating": 5
+      },
+      {
+        "name": "SQL Server Management Studio",
+        "rating": 4
+      },
+      {
+        "name": "Git Control",
+        "rating": 4
+      },
+      {
+        "name": "TFS",
+        "rating": 3
+      },
+      {
+        "name": "Azure DevOps (VSTS)",
+        "rating": 4
+      }
+    ],
+    "Data Visualization": [
+      {
+        "name": "Power BI",
+        "rating": 3
+      },
+      {
+        "name": "Power BI Embedded",
+        "rating": 3
+      }
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Software Developer",
+      "company": "Contour Software (Pvt.) Ltd",
+      "description": "Managed diverse responsibilities, including dynamic web development for responsive applications, crafting insightful Power BI reports, seamlessly integrating Power BI Embedded into web applications, and ensuring up-to-date Azure DevOps board updates for efficient project planning and execution. (March 2019 – To date)"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "PPHI Sindh (Pvt.) Ltd",
+      "description": "In my role at PPHI Sindh, I excel in web development and direct client communication. I ensure dynamic and responsive web applications and engage clients proactively. With a keen focus on requirement understanding, I deliver comprehensive project solutions, outstanding client expectations. (August 2017 – March 2019)"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Aimviz Software Solution (Pvt.) Ltd",
+      "description": "Primary responsibilities encompass direct client communication, active participation in web development, and the continual design and enhancement of workflow procedures to ensure efficiency and optimization. (September 2016 – August 2017)"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "company": "Primac Systems Pakistan (Pvt) Ltd",
+      "description": "Responsibilities include web development, python development. (July 2015 – July 2016)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PPHI Laboratory System",
+      "description": "Developed and implemented a web-based Laboratory Information System for PPHI, enhancing pathology test management with machine data integration, patient management, sample logistics coordination, and rapid result delivery. This system provides comprehensive end-to-end solutions for laboratory operations.",
+      "link": "https://linktoyourproject1.com"
+    },
+    {
+      "name": "Smooth Parcel",
+      "description": "Developed Smooth Parcel, a web-based application that streamlines shipping small parcels from Hong Kong and China to Europe, improving efficiency and providing convenient parcel tracking.",
+      "link": "https://linktoyourproject2.com"
+    },
+    {
+      "name": "ChartViewer",
+      "description": "Developed ChartViewer, a web-based application for efficient chart management using a dynamic table layout, enhancing the accessibility and organization of visual data representations.",
+      "link": "https://linktoyourproject3.com"
+    },
+    {
+      "name": "PRIMAC",
+      "description": "PRIMAC is the ERP that includes a complete set of tools to manage inventory and financials.",
+      "link": "https://linktoyourproject4.com"
+    },
+    {
+      "name": "Tinsel",
+      "description": "Developed Tinsel, a tool that automates the generation of AngularJS and HTML code by leveraging JSON configurations, settings, and source files from a specified directory. Successfully implemented a solution that transforms source data into a final application, optimizing the development process and enhancing code generation efficiency.",
+      "link": "https://linktoyourproject5.com"
+    },
+    {
+      "name": "Lab Monitoring System (Smart Spy)",
+      "description": "Developed Smart Spy, a desktop-based software utilizing TCP/IP server technology to monitor computer networks. The server component enables screen sharing between computers and allows tracking of processes on client machines. Designed to monitor networked computers, prevent misuse of applications, and provide essential features like remote computer access. Successfully implemented a solution addressing network monitoring and control needs in the computer laboratory in IICT university of Sindh.",
+      "link": "https://linktoyourproject6.com"
+    }
+  ],
+  "education": "Graduated in 2014 with a 74% average in Software Engineering from the University of Sindh, Jamshoro.",
+  "contact": {
+    "email": "ayaz_khushik@live.com",
+    "cell": "+923235167282 / +92334-2003457",
+    "linkedIn": "https://www.linkedin.com/in/ayaz-ali-4a3ab74a/"
+  }
+}
